@@ -2,6 +2,8 @@ Note: This example is very out-of-date. It might point you in the right directio
 
 ### Goal
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/react-redux-jwt-auth.svg)](https://greenkeeper.io/)
+
 This project is an example of one possible authentication flow using [react](https://github.com/facebook/react), [redux](https://github.com/rackt/redux), [react-router](https://github.com/rackt/react-router), [redux-router](https://github.com/rackt/redux-router), and [JSON web tokens (JWT)](http://jwt.io/). It is based on the implementation of a [higher-order component](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750)
 to wrap protected views and perform authentication logic prior to rendering them.
 
