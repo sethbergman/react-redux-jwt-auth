@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joshgeller/react-redux-jwt-auth-example.git"
+    "url": "git+https://github.com/sethbergman/react-redux-jwt-auth.git"
   },
   "author": "Josh Geller <joshualgeller@gmail.com>",
   "license": "MIT",
