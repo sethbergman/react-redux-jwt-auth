@@ -52,7 +52,7 @@
     "autoprefixer-loader": "^3.1.0",
     "babel-eslint": "^7.2.3",
     "babel-loader": "^7.1.1",
-    "babel-plugin-react-transform": "^2.0.2",
+    "babel-plugin-react-transform": "^3.0.0",
     "babel-runtime": "^6.25.0",
     "chai-as-promised": "^7.1.1",
     "css-loader": "^0.28.4",
